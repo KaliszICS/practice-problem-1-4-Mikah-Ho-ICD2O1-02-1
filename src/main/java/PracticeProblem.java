@@ -102,7 +102,7 @@ public class PracticeProblem {
 		iq = age;
 		age = age + 3;
 
-		System.out.print(name + age + "\n" + iq);
+		System.out.print(name + age + "\n" + iq + "\n");
 		
 	}
 
